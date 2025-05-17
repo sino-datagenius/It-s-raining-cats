@@ -3,7 +3,7 @@
 ![its raining cats3](https://github.com/user-attachments/assets/fe894bb3-d54f-47ee-ad8f-467bf877d0e4)
 
 
-# <span style="color:#1E90FF;">🐱 Cat Breeds Data Cleaning & Imputation Project</span>
+# <span style="color:#1E90FF;">🐱 Cat Breeds Data Cleaning & Imputation </span>
 
 Welcome to the **Cat Breeds Data Cleaning & Imputation** repository! This project focuses on transforming a raw, messy dataset of cat breeds into a clean, consistent, and analysis-ready format. Whether you're a data enthusiast, analyst, or scientist, this repository will guide you through practical data cleaning techniques and imputation strategies.
 
@@ -54,6 +54,12 @@ Here is the python file : https://github.com/sino-datagenius/It-s-raining-cats/b
 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+
+I will keep the project continue ...........
+
+
+
+
 
 📞 Contact
 For questions or support, please reach out at:
