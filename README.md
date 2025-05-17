@@ -34,4 +34,27 @@ This project demonstrates how to tackle these issues step-by-step, ensuring the 
 
 ---
 
-Here is the python file : 
+Here is the python file : https://github.com/sino-datagenius/It-s-raining-cats/blob/main/Data_Cleaning.ipynb
+
+
+📊 What You Will Learn
+
+- Handling messy real-world data with Python and pandas
+- Techniques for detecting and fixing inconsistent data types
+- Strategies for dealing with missing data effectively
+- Best practices for preparing data for analysis or machine learning
+
+💡 Insights & Observations
+
+- Proper cleaning can drastically improve data quality and reliability.
+- Imputation methods like median and mode are simple yet powerful.
+- Consistent formatting and standardization prevent common analysis errors.
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+
+📞 Contact
+For questions or support, please reach out at:
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/kanhu-charan-gouda-509249166)
+
