@@ -7,7 +7,8 @@
 
 Welcome to the **Cat Breeds Data Cleaning & Imputation** repository! This project focuses on transforming a raw, messy dataset of cat breeds into a clean, consistent, and analysis-ready format. Whether you're a data enthusiast, analyst, or scientist, this repository will guide you through practical data cleaning techniques and imputation strategies.
 
-![pngtree-cat-cleaning-floor-with-brush-and-bucket-png-image_12641407](https://github.com/user-attachments/assets/56904c30-0d5d-4b29-b335-ca8b31dd1e4a)
+![pngtree-cat-cleaning-floor-with-brush-and-bucket-png-image_12641407 (1)](https://github.com/user-attachments/assets/4534c3c3-2a3c-4c75-9a65-2f447d5cb1b8)
+
 
 ---
 
